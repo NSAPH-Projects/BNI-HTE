@@ -2,7 +2,7 @@
 
 ### Kevin Chen, Falco Bargagli-Stoffi, Raphael Kim, Rachel Nethery
 
-Updated 8/9/2024
+Updated 10/23/2024
 
 Repository for simulation and analysis code used in the paper entitled "Environmental Justice Implications of Power Plant Emissions Control Policies: Heterogeneous Causal Effect Estimation under Bipartite Network Interference", authored by Kevin L. Chen, Falco J. Bargagli Stoffi, Raphael C. Kim, and Rachel C. Nethery. The preprint of this paper can be found on arXiv at https://arxiv.org/abs/2304.12500.
 
